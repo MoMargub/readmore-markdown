@@ -1,0 +1,11 @@
+{
+  "name": "readmore-markdown",
+  "version": "1.0.1",
+  "description": "this markdown format has readmore and show less functionality inbuilt so didn't need to write extra code for readmore  and show less functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Margub Ahmad Shaikh",
+  "license": "ISC"
+}
