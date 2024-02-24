@@ -30,7 +30,7 @@ function App() {
       <div className="card"></div>
 
       <div style={{ cursor: "pointer" }}>
-      ```<CustomMarkdownTag content={markdownContent} readMoreChars={10}/>```
+      <CustomMarkdownTag content={markdownContent} readMoreChars={10}/>
       </div>
     </>
   );
