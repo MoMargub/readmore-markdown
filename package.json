@@ -1,6 +1,6 @@
 {
   "name": "readmore-markdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this markdown format has readmore and show less functionality inbuilt so didn't need to write extra code for readmore  and show less functionality",
   "main": "index.js",
   "scripts": {
